@@ -109,7 +109,7 @@ questions: {
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
+        yesBtn: "Yes🤭!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
 }

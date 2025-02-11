@@ -85,7 +85,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Collins Okoli"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -100,7 +100,8 @@ questions: {
         text: "Do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't like you, I love you!!![591EC276-C1BB-4437-B976-CA4654A3A432](https://github.com/user-attachments/assets/27d43331-e306-4d67-921a-084553719fbc)
+ ❤️"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
